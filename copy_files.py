@@ -39,4 +39,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# python3 copy_files.py --source test --dest test_dest1
+# python3 copy_files.py --source test --dest sorted_dest
+
